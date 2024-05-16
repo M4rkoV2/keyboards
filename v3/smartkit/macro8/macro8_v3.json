@@ -1,0 +1,29 @@
+{
+    "name": "Macro8",
+    "vendorId": "0x6000",
+    "productId": "0x6060",
+    "matrix": {
+        "rows": 1,
+        "cols": 8
+    },
+    "keycodes": [
+      "qmk_lighting"
+    ],
+    "menus": ["qmk_rgblight" ],
+    "layouts": {
+        "keymap": [
+            [
+              "0,0",
+              "0,1",
+              "0,2",
+              "0,3"
+            ],
+            [
+              "0,4",
+              "0,5",
+              "0,6",
+              "0,7"
+            ]
+          ]
+    }
+}
